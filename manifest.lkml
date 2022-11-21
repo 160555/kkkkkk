@@ -1,4 +1,4 @@
-project_name: "blankextension"
+project_name: "my"
 
 
 localization_settings: {

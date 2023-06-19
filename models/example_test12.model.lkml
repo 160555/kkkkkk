@@ -3,6 +3,7 @@ connection: "example_test12"
 
 # include all the views
 include: "/views/**/*.view"
+include: "/models/dashboard.dashboard.lookml"
 
 # Datagroups define a caching policy for an Explore. To learn more,
 # use the Quick Help panel on the right to see documentation.
